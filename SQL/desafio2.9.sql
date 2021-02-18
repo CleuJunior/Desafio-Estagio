@@ -1,0 +1,1 @@
+ALTER TABLE tabela_telefone ADD ddd INT NOT NULL AFTER pessoa_id, ADD UNIQUE (ddd);

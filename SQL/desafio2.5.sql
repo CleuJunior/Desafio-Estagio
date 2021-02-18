@@ -1,0 +1,1 @@
+ DELETE FROM tabela_evento WHERE tabela_evento.id = 2;

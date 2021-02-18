@@ -1,0 +1,1 @@
+SELECT tabela_pessoa.nome, tabela_evento.evento FROM tabela_pessoa INNER JOIN tabela_evento ON tabela_pessoa.id = tabela_evento.pessoa_id;

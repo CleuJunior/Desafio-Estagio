@@ -1,0 +1,1 @@
+UPDATE tabela_evento SET pessoa_id = 1 WHERE tabela_evento.id = 4;

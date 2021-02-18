@@ -1,0 +1,1 @@
+INSERT INTO tabela_evento (evento, pessoa_id) VALUES (dEvento C, 5);
